@@ -1,0 +1,25 @@
+{
+    "token": "NTI2NDgxODM1MDk0NTczMDU2.DwFz-w.-4W9dusr2pMb1qjPA0jwifD9HCY",
+    "prefix": "!",
+    "rainbowdelay": 200,
+    "rainbowcommand": "disko",
+    "rainbowstop": "durdur",
+    "rainbowrole": [
+        "#9400D3",
+        "#4B0082",
+        "#0000FF",
+        "#00FF00",
+        "#FFFF00",
+        "#FF7F00",
+        "#FF0000",
+		"#080707",
+		"#14e7f0",
+		"#f0149e"
+    ],
+    "messageresponse": {
+        "missingperm": "**Bu komutu kullanabilmek için `rolleri yönet` yetkisine sahip olman gerek.**\n`Sunucunuza eklemek için:` **https://goo.gl/f2iBnw**",
+        "success": "**Disko başladı!**\n`Sunucunuza eklemek için:` **https://goo.gl/f2iBnw**",
+        "rainbowstop": "**Disko bitti.**\n`Sunucunuza eklemek için:` **https://goo.gl/f2iBnw**",
+        "rolenotfound": "**Disko olarak seçeceğin rolü etiketlemen gerek.**\n`Sunucunuza eklemek için:` **https://goo.gl/f2iBnw**"
+    }
+}
